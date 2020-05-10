@@ -1,2 +1,3 @@
 # React-Native-Games
-multy game React Native App
+multi game React Native App
+used expo
